@@ -1,0 +1,7 @@
+# AppleIntelligence.yaml
+payload:
+  - DOMAIN,guzzoni.apple.com
+  - DOMAIN-SUFFIX,apple-relay.c loudflare.com
+  - DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+  - DOMAIN-SUFFIX,cp4.cloudflare.com
+  - DOMAIN-SUFFIX,apple-relay.apple.com
